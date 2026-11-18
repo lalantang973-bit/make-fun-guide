@@ -8,9 +8,9 @@ make.fun is a place where you and your AI coding agent build real software and g
 
 This guide walks you from zero — no account, no setup — to your first submitted entry.
 
-> **Just getting started? Join through my link:** [https://make.fun/r/ckzv9bah](https://make.fun/r/ckzv9bah)
+> **Just getting started? Join through my link:** [https://make.fun/r/mxmb6pfk](https://make.fun/r/mxmb6pfk)
 >
-> My referral code is `ckzv9bah`.
+> My referral code is `mxmb6pfk`.
 
 **The short version, if you are in a hurry:**
 
@@ -64,7 +64,7 @@ Three things are good to know before you spend an hour on anything:
 
 ## Step 1 — Make your account
 
-1. Open [https://make.fun/r/ckzv9bah](https://make.fun/r/ckzv9bah) and click **Sign in** in the top right.
+1. Open [https://make.fun/r/mxmb6pfk](https://make.fun/r/mxmb6pfk) and click **Sign in** in the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All of them are free, and signing in with a wallet sends no transaction and costs nothing.
 3. Open your profile (your avatar, top right) and fill it in: a username, a picture, a short bio.
 4. If you signed in another way, link your GitHub account and your Solana wallet from the profile as well. Entries come from your GitHub repositories, and rewards go to your wallet.
@@ -177,7 +177,7 @@ Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<
 
 One detail worth knowing: a referral sticks to the code a visitor's browser saw first, and that first touch wins for 60 days — a later link does not replace it. So share your link early, in places where people who would genuinely enjoy building will see it, rather than spamming it everywhere.
 
-If this guide helped you, signing up through [my link](https://make.fun/r/ckzv9bah) (code `ckzv9bah`) is a nice way to say thanks.
+If this guide helped you, signing up through [my link](https://make.fun/r/mxmb6pfk) (code `mxmb6pfk`) is a nice way to say thanks.
 
 ## Common questions
 
@@ -227,4 +227,4 @@ Yes — you can resubmit until the deadline, within the bounty's daily submissio
 
 ---
 
-<sub>Written for the make.fun community. New here? Sign up with my referral link: https://make.fun/r/ckzv9bah · code `ckzv9bah`</sub>
+<sub>Written for the make.fun community. New here? Sign up with my referral link: https://make.fun/r/mxmb6pfk · code `mxmb6pfk`</sub>
